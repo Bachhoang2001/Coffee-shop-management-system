@@ -1,0 +1,10 @@
+Quang Bao;0364954217;Da Nang;30;1;Bao ve;1
+Thien Phu;0675984214;TP HCM;56;1;Bao ve;1
+Minh Thu;0364578912;Ha Noi;20;0;Phuc vu;1
+Minh Son;0905945056;Hue;19;1;Phuc vu;1.1
+Bao Tran;0364532876;Quang Nam;21;1;Phuc vu;1.1
+Phuoc Thanh;0864928761;Hue;22;1;Phuc vu;1.2
+Nhat Minh;0774591811;Quang Nam;18;1;Phuc vu;1.2
+Thuy Linh;0364957846;Da Nang;19;0;Phuc vu;1.1
+Trung Dat;0905405323;Da Nang;21;1;Quan li;1.5
+Kim Ngan;0346785964;Ha Tinh;23;0;Quan li;1.5
